@@ -1,12 +1,14 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import unittest
+from bs4 import BeautifulSoup
+from urllib.request import urlopen
 
 
 class NewVisitorTest(unittest.TestCase):
     def setUp(self):
         self.browser = webdriver.Firefox()
-        self.browser.implicitly_wait(3)
+        self.browser.implicitly_wait(100)
 
     def check_for_row_in_list_table(self, row_text):
         table = self.browser.find_element_by_id('id_list_table')
@@ -38,8 +40,8 @@ class NewVisitorTest(unittest.TestCase):
         # 她按回车键后, 页面更新啦
         # 待办事项表格中显示了'1: Buy peacock feathers'
         inputbox.send_keys(Keys.ENTER)
+        print(BeautifulSoup(urlopen('http://localhost:8000')))
         self.check_for_row_in_list_table('1: Buy peacock feathers')
-
         # 页面中又显示了一个文本框，可以输入其他的待办事项
         # 她输入了 “ Use peacock feathers to make a fly ” （使用孔雀羽毛做假蝇）
         inputbox = self.browser.find_element_by_id('id_new_item')
