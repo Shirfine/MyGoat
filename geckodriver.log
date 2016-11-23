@@ -2040,3 +2040,40 @@ Hit MOZ_CRASH(MsgDropped) at /build/firefox-RaD34G/firefox-50.0+build2/ipc/glue/
 
 ###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
 
+1479877113784	geckodriver	INFO	Listening on 127.0.0.1:36940
+1479877114790	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TF14SkbRELEs
+1479877114792	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1479877114803	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36834
+1479877118646	Marionette	INFO	Listening on port 36834
+
+(firefox:21558): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21558): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:21558): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 21602] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 21602] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 21602] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+1479886606113	geckodriver	INFO	Listening on 127.0.0.1:42679
+1479886607088	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dL355VSNY3bf
+1479886607090	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1479886607102	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35666
+1479886613808	Marionette	INFO	Listening on port 35666
+
+(firefox:22569): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22569): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:22569): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 22614] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 22614] ###!!! ABORT: Aborting on channel error.: file /build/firefox-RaD34G/firefox-50.0+build2/ipc/glue/MessageChannel.cpp, line 2056
