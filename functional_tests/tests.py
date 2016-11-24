@@ -6,7 +6,7 @@ from django.test import LiveServerTestCase
 class NewVisitorTest(LiveServerTestCase):
     def setUp(self):
         self.browser = webdriver.Firefox()
-        self.browser.implicitly_wait(100)
+        self.browser.implicitly_wait(10)
 
     def check_for_row_in_list_table(self, row_text):
         table = self.browser.find_element_by_id('id_list_table')
