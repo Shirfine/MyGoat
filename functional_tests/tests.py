@@ -1,9 +1,25 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from django.contrib.staticfiles.testing import StaticLiveServerTestCase
+import sys
 
 
 class NewVisitorTest(StaticLiveServerTestCase):
+
+    @classmethod
+    def setUpClass(cls):
+        for arg in sys.argv:
+            if 'liveserver' in arg:
+                cls.server_url = 'http://' + arg.split('=')[1]
+                return
+        super().setUpClass()
+        cls.server_url = cls.live_server_url
+
+    @classmethod
+    def tearDownClass(cls):
+        if cls.server_url == cls.live_server_url:
+            super().tearDownClass()
+
     def setUp(self):
         self.browser = webdriver.Firefox()
         self.browser.implicitly_wait(10)
@@ -18,7 +34,7 @@ class NewVisitorTest(StaticLiveServerTestCase):
 
     def test_can_start_a_list_and_retrieve_it_later(self):
         # 在线待办应用首页:
-        self.browser.get(self.live_server_url)
+        self.browser.get(self.server_url)
 
         # 页面标题和头部都包含'To-Do'
         self.assertIn('To-Do', self.browser.title)
@@ -61,7 +77,7 @@ class NewVisitorTest(StaticLiveServerTestCase):
 
         # 弗朗西斯访问首页
         # 页面中看不到伊迪斯待清单
-        self.browser.get(self.live_server_url)
+        self.browser.get(self.server_url)
         page_text = self.browser.find_element_by_tag_name('body').text
         self.assertNotIn('Buy peacock feathers', page_text)
         self.assertNotIn('make a fly', page_text)
@@ -91,7 +107,7 @@ class NewVisitorTest(StaticLiveServerTestCase):
 
     def test_layout_and_styling(self):
         # 伊迪斯访问首页
-        self.browser.get(self.live_server_url)
+        self.browser.get(self.server_url)
         self.browser.set_window_size(1024, 768)
 
         # 她看到输入框完美地居中显示
