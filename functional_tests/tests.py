@@ -5,7 +5,6 @@ import sys
 
 
 class NewVisitorTest(StaticLiveServerTestCase):
-
     @classmethod
     def setUpClass(cls):
         for arg in sys.argv:

@@ -15,6 +15,7 @@
         <list>
           <option value="django.http.response.HttpResponse.POST" />
           <option value="django.http.request.QueryDict.__setitem__" />
+          <option value="functional_tests.tests.NewVisitorTest.*" />
         </list>
       </option>
     </inspection_tool>
