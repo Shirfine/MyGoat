@@ -3925,3 +3925,150 @@ Hit MOZ_CRASH(MsgDropped) at /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glu
 [Child 20384] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
 [Child 20384] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
 [Child 20384] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481080063620	geckodriver	INFO	Listening on 127.0.0.1:60304
+1481080064404	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.AJ01FoJBRUBz
+1481080064436	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481080064481	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41020
+1481080076480	Marionette	INFO	Listening on port 41020
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 58498] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 58498] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481080098572	geckodriver	INFO	Listening on 127.0.0.1:48831
+1481080099328	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.4DNtHTWaj6BB
+1481080099330	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481080099412	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39035
+1481080104953	Marionette	INFO	Listening on port 39035
+[Child 58578] WARNING: pipe error (30): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 58578] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 58578] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 58578] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481080114170	geckodriver	INFO	Listening on 127.0.0.1:44816
+1481080115134	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.HO6CyeYjTced
+1481080115136	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481080115144	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43484
+1481080117350	Marionette	INFO	Listening on port 43484
+
+(firefox:58615): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:58615): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 58659] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 58659] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481080547704	geckodriver	INFO	Listening on 127.0.0.1:34166
+1481080548697	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.dCJ1cnMt9SNv
+1481080548699	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481080548722	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44236
+1481080550566	Marionette	INFO	Listening on port 44236
+
+(firefox:58758): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:58758): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:58758): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 58802] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 58802] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481080560986	geckodriver	INFO	Listening on 127.0.0.1:49803
+1481080561956	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ctnfEwcoutj5
+1481080561957	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481080561985	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40447
+1481080565319	Marionette	INFO	Listening on port 40447
+
+(firefox:58843): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:58843): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 58888] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 58888] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481080574679	geckodriver	INFO	Listening on 127.0.0.1:48858
+1481080575676	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.a42nmSpOSVLZ
+1481080575679	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481080575698	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46255
+1481080577715	Marionette	INFO	Listening on port 46255
+[Child 58974] WARNING: pipe error (30): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 58974] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 58974] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 58974] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481080582916	geckodriver	INFO	Listening on 127.0.0.1:45543
+1481080583920	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.X21jjKqjqunP
+1481080583926	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481080583937	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35236
+1481080585567	Marionette	INFO	Listening on port 35236
+
+(firefox:59008): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:59008): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 59050] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 59050] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481088676262	geckodriver	INFO	Listening on 127.0.0.1:50185
+1481088677157	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zxrsLuUti4vM
+1481088677202	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481088677232	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41927
+1481088683860	Marionette	INFO	Listening on port 41927
+[Child 59977] WARNING: pipe error (30): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 59977] WARNING: pipe error: 断开的管道: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 59977] WARNING: pipe error: 断开的管道: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 59977] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 59977] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 59977] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481088697335	geckodriver	INFO	Listening on 127.0.0.1:58086
+1481088698196	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VynfuLmCLDwP
+1481088698198	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481088698221	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46351
+1481088701481	Marionette	INFO	Listening on port 46351
+
+(firefox:60016): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:60016): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 60058] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 60058] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481088710392	geckodriver	INFO	Listening on 127.0.0.1:35773
+1481088711329	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MfzRovxktrai
+1481088711331	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481088711343	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40137
+1481088714649	Marionette	INFO	Listening on port 40137
+
+(firefox:60099): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:60099): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:60099): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 60143] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 60143] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481088722715	geckodriver	INFO	Listening on 127.0.0.1:33613
+1481088723697	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.PuTQeUz5ut8t
+1481088723699	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481088723719	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45154
+1481088726083	Marionette	INFO	Listening on port 45154
+
+(firefox:60186): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:60186): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 60231] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 60231] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481090872906	geckodriver	INFO	Listening on 127.0.0.1:39180
+1481090873898	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.jNlfj3Z01G4v
+1481090873899	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481090873904	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38012
+1481090876763	Marionette	INFO	Listening on port 38012
+[Child 60568] WARNING: pipe error (30): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 60568] WARNING: pipe error (18): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 60568] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 60568] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 60568] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481091436940	geckodriver	INFO	Listening on 127.0.0.1:59436
+1481091437952	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.VALbxyqJ5Z4j
+1481091437955	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481091437988	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38885
+1481091443052	Marionette	INFO	Listening on port 38885
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[Child 60706] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 60706] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
