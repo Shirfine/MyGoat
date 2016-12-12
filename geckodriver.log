@@ -4773,3 +4773,49 @@ Hit MOZ_CRASH(MsgDropped) at /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glu
 (firefox:78365): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
 [Child 78410] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
 [Child 78410] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481547119180	geckodriver	INFO	Listening on 127.0.0.1:35349
+1481547120061	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.iDsXnQcSN9Oz
+1481547120068	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481547120125	geckodriver::marionette	INFO	Connecting to Marionette on localhost:37172
+1481547131550	Marionette	INFO	Listening on port 37172
+
+(firefox:96838): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:96838): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 96880] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 96880] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481547138126	geckodriver	INFO	Listening on 127.0.0.1:33777
+1481547139126	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vrJB7APpvNxP
+1481547139126	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481547139131	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34927
+1481547140111	Marionette	INFO	Listening on port 34927
+
+(firefox:96923): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:96923): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 96965] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 96965] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481547153252	geckodriver	INFO	Listening on 127.0.0.1:42431
+1481547154252	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Y9g4YK5hBD5m
+1481547154252	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481547154255	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33864
+1481547155057	Marionette	INFO	Listening on port 33864
+
+(firefox:97005): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:97005): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:97005): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1060003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 97046] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 97046] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 97046] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
