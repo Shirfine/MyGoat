@@ -62,14 +62,14 @@ class NewVistorTest(FunctionalTest):
         inputbox.send_keys(Keys.ENTER)
 
         # 弗朗西斯获得啦她待唯一URL
-        francis_list_url = self.browser.current_url
+        # francis_list_url = self.browser.current_url
         # self.assertRegex(francis_list_url, '/lists/.+')
         # self.assertNotEqual(francis_list_url, edith_list_url)
 
         # 这个也页面还是没有伊迪斯待清单
         page_text = self.browser.find_element_by_tag_name('body').text
-        self.assertNotIn('Buy peacock feathers', 'page_text')
-        self.assertIn('Buy milk', page_text)
+        self.assertNotIn('Buy peacock feathers', page_text)
+        self.assertNotIn('Buy milk', page_text)
 
         # 伊迪丝想知道这个网站是否会记住她的清单
         # 她看到网站为她生成了一个唯一的URL
