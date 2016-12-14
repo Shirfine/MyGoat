@@ -51,6 +51,7 @@ class NewVistorTest(FunctionalTest):
         # 页面中看不到伊迪斯待清单
         self.browser.get(self.server_url)
         page_text = self.browser.find_element_by_tag_name('body').text
+        print(page_text)
         self.assertNotIn('Buy peacock feathers', page_text)
         self.assertNotIn('make a fly', page_text)
 
