@@ -5715,3 +5715,137 @@ n@https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8
 (firefox:15641): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
 [Child 15683] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
 [Child 15683] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481779869261	geckodriver	INFO	Listening on 127.0.0.1:50694
+1481779870255	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.eMh3QJyhqjZe
+1481779870257	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481779870275	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45929
+1481779872410	Marionette	INFO	Listening on port 45929
+
+(firefox:16757): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16757): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 16798] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 16798] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481779880829	geckodriver	INFO	Listening on 127.0.0.1:58470
+1481779881819	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.C2QbGVzAZUsj
+1481779881825	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481779881833	geckodriver::marionette	INFO	Connecting to Marionette on localhost:43736
+1481779883787	Marionette	INFO	Listening on port 43736
+
+(firefox:16839): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16839): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16839): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 16886] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 16886] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481779902431	geckodriver	INFO	Listening on 127.0.0.1:59455
+1481779903413	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.EVKLnyXMfg9k
+1481779903416	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481779903421	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35614
+1481779905251	Marionette	INFO	Listening on port 35614
+
+(firefox:16928): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:16928): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 16973] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 16973] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481779923630	geckodriver	INFO	Listening on 127.0.0.1:54824
+1481779924628	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.JbFXJJ0gQQs3
+1481779924630	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481779924646	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46213
+1481779926833	Marionette	INFO	Listening on port 46213
+
+(firefox:17020): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17020): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17020): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 17063] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17063] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481779940014	geckodriver	INFO	Listening on 127.0.0.1:55226
+1481779940958	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.71phclbskYE6
+1481779940960	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481779940967	geckodriver::marionette	INFO	Connecting to Marionette on localhost:41364
+1481779943530	Marionette	INFO	Listening on port 41364
+
+(firefox:17107): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17107): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 17150] WARNING: pipe error (18): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 17150] WARNING: pipe error (3): 连接被对方重设: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 320
+[Child 17150] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17150] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481781819583	geckodriver	INFO	Listening on 127.0.0.1:58193
+1481781820576	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.fzTF5ufRo8YM
+1481781820578	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481781820599	geckodriver::marionette	INFO	Connecting to Marionette on localhost:38881
+1481781823212	Marionette	INFO	Listening on port 38881
+
+(firefox:17437): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17437): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17437): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 17480] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17480] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481781849546	geckodriver	INFO	Listening on 127.0.0.1:46209
+1481781850544	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.NdS7MLOhvcdd
+1481781850547	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481781850554	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33783
+1481781853048	Marionette	INFO	Listening on port 33783
+
+(firefox:17525): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17525): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 17568] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17568] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481781873189	geckodriver	INFO	Listening on 127.0.0.1:52129
+1481781874167	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.u4pjEN0FToLv
+1481781874169	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481781874189	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44865
+1481781876800	Marionette	INFO	Listening on port 44865
+
+(firefox:17611): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17611): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 17653] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17653] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481782599897	geckodriver	INFO	Listening on 127.0.0.1:46249
+1481782600885	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.vU28z5PcQFk2
+1481782600887	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481782600904	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45313
+1481782603542	Marionette	INFO	Listening on port 45313
+
+(firefox:17755): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17755): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17755): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 17795] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17795] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481782621397	geckodriver	INFO	Listening on 127.0.0.1:42482
+1481782622376	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.zGiV0780BS83
+1481782622378	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481782622388	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40512
+1481782624385	Marionette	INFO	Listening on port 40512
+
+(firefox:17845): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17845): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 17887] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17887] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+1481782641898	geckodriver	INFO	Listening on 127.0.0.1:39138
+1481782642885	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.ujj2rckjJFqr
+1481782642887	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1481782642896	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32842
+1481782644704	Marionette	INFO	Listening on port 32842
+
+(firefox:17931): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:17931): GLib-GObject-CRITICAL **: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+[Child 17975] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
+[Child 17975] ###!!! ABORT: Aborting on channel error.: file /build/firefox-GoqHGf/firefox-50.0.2+build1/ipc/glue/MessageChannel.cpp, line 2056
